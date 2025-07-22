@@ -17,7 +17,7 @@ a:hover {
 /* Cabeçalho */
 header {
   background: #020024;
-  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 52%, rgba(0, 81, 255, 0.62) 100%);
+  background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 74%, rgba(25, 72, 158, 1) 100%);
   color: white;
   text-align: center;
   padding: 2rem 1rem;
