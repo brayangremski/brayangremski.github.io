@@ -77,3 +77,38 @@ footer {
   color: white;
   padding: 1rem;
 }
+
+#servicos {
+  background-color: #f4f4f4;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.servicos-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.servico {
+  background: white;
+  border-radius: 12px;
+  padding: 1rem;
+  width: 250px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.servico img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+}
+
+.servico h3 {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+  color: #1e3a8a;
+}
