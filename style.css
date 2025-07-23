@@ -112,3 +112,11 @@ footer {
   font-size: 1.1rem;
   color: #1e3a8a;
 }
+
+.zoom-image {
+  transition: transform 0.3s ease;
+}
+
+.zoom-image:hover {
+  transform: scale(1.1); /* aumenta 10% */
+}
