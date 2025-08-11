@@ -222,11 +222,11 @@ footer {
   -webkit-backface-visibility: hidden;
 }
 .switch input + span strong:before {
-  content: "Unlocked";
+  content: "Desbloqueado";
   transition: all 0.3s ease 0.2s;
 }
 .switch input + span strong:after {
-  content: "Locked";
+  content: "Bloqueado";
   opacity: 0;
   visibility: hidden;
   position: absolute;
